@@ -1,2 +1,2 @@
 # bio172
-Please refer to 0_Introduction.ipynb.
+Please refer to [_0_introduction notebook](_0_introduction.ipynb)
