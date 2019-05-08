@@ -7,3 +7,8 @@ SPECIES_COL = 4
 def load_pickle(filename):
     with open(filename, 'rb') as f:
         return pickle.load(f)
+    
+def save_pickle(a, filename):
+    with open(filename, 'wb') as f:
+        pickle.dump(a, f)
+        
