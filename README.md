@@ -1,2 +1,2 @@
 # bio172
-Please refer to README.ipynb.
+Please refer to 0_Introduction.ipynb.
