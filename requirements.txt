@@ -3,4 +3,4 @@ numpy
 xlrd
 nbimporter
 nbformat
-jupyterlab
+ipywidgets
