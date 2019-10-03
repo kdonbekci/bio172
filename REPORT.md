@@ -1,5 +1,5 @@
 ## Goals: 
-1. Generate [Leslie matrices](https://en.wikipedia.org/wiki/Leslie_matrix), used for modeling growth of populations, from experimental field data species census.
+1. Generate [Leslie matrices](https://en.wikipedia.org/wiki/Leslie_matrix), used for modeling growth of populations, from experimental field data of species census.
 2. Caclulate important model characteristics such as net [reproductive rate](https://en.wikipedia.org/wiki/Net_reproduction_rate) through conventional linear algebra methods, more specifically eigen decomposition of the leslie matrix. 
 3. Appproximate the model characteristics through other, less computationally intensive methods. 
 
